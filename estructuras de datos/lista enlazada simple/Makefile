@@ -1,6 +1,6 @@
 OBJS = main.o lista.o
 BINARIO = s
-
+#cambio
 HW = Bienvenido a Makefile
 
 all: imprimir out
